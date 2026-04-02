@@ -1,0 +1,32 @@
+{
+  "flags": {
+    "AXIS_GUIDES": true,
+    "HALF_AXES": true,
+    "SNAP_ENABLED": true,
+    "GRID_SNAP": false,
+    "NODES_SNAP": true,
+    "HV_BAND_IN_PX": 10.0,
+    "HV_BAND_OUT_PX": 16.0,
+    "CHAIN_LINE": true
+  },
+  "keymap": {
+    "TOOL_SELECTION": "s",
+    "TOOL_LINE": "l",
+    "SAVE": "ctrl-s",
+    "LOAD": "ctrl-o",
+    "SNAP_TOGGLE": "f8"
+  },
+  "trace": {
+    "enabled": false,
+    "file": true,
+    "ui_panel": false,
+    "ui_lines": 20,
+    "categories": [
+      "TOOL",
+      "SNAP",
+      "MARKER",
+      "HV",
+      "CMD"
+    ]
+  }
+}
