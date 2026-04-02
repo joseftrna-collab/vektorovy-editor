@@ -1,0 +1,124 @@
+
+=== trace start 2026-04-02 20:17:22 ===
+[842.630] MARKER flush  winner=None
+[842.646] MARKER flush  winner=None
+[842.647] MARKER flush  winner=None
+[842.654] MARKER flush  winner=None
+[842.662] MARKER flush  winner=None
+[842.670] MARKER flush  winner=None
+[842.676] MARKER flush  winner=None
+[842.684] MARKER flush  winner=None
+[842.692] MARKER flush  winner=None
+[842.700] MARKER flush  winner=None
+[842.708] MARKER flush  winner=None
+[842.716] MARKER flush  winner=None
+[842.724] MARKER flush  winner=None
+[842.732] MARKER flush  winner=None
+[842.740] SNAP   find  kind='line_body'  x=446.8  y=531.9
+[842.740] MARKER propose  kind='line_body'  x=446.8  y=531.9  pri=3
+[842.740] MARKER flush  winner='line_body'  x=446.8  y=531.9  candidates=1
+[842.746] SNAP   find  kind='line_body'  x=452.0  y=526.6
+[842.746] MARKER propose  kind='line_body'  x=452.0  y=526.6  pri=3
+[842.746] MARKER flush  winner='line_body'  x=452.0  y=526.6  candidates=1
+[842.754] SNAP   find  kind='line_body'  x=426.1  y=495.6
+[842.754] MARKER propose  kind='line_body'  x=426.1  y=495.6  pri=3
+[842.754] MARKER flush  winner='line_body'  x=426.1  y=495.6  candidates=1
+[842.764] SNAP   find  kind='line_mid'  x=427.8  y=475.4
+[842.764] MARKER propose  kind='line_mid'  x=427.8  y=475.4  pri=1
+[842.764] MARKER flush  winner='line_mid'  x=427.8  y=475.4  candidates=1
+[842.770] MARKER flush  winner=None
+[842.778] MARKER flush  winner=None
+[842.786] SNAP   find  kind='line_end'  x=397.4  y=432.6
+[842.786] MARKER propose  kind='line_end'  x=397.4  y=432.6  pri=0
+[842.786] MARKER flush  winner='line_end'  x=397.4  y=432.6  candidates=1
+[842.794] MARKER flush  winner=None
+[842.802] MARKER flush  winner=None
+[842.810] MARKER flush  winner=None
+[842.818] MARKER flush  winner=None
+[842.824] MARKER flush  winner=None
+[842.832] MARKER flush  winner=None
+[842.840] MARKER flush  winner=None
+[842.848] MARKER flush  winner=None
+[842.856] MARKER flush  winner=None
+[842.864] MARKER flush  winner=None
+[842.872] MARKER flush  winner=None
+[842.881] MARKER flush  winner=None
+[842.888] MARKER flush  winner=None
+[842.894] MARKER flush  winner=None
+[842.902] MARKER flush  winner=None
+[842.910] MARKER flush  winner=None
+[842.918] MARKER flush  winner=None
+[842.926] MARKER flush  winner=None
+[842.934] MARKER flush  winner=None
+[842.942] MARKER flush  winner=None
+[842.950] MARKER flush  winner=None
+[842.958] MARKER flush  winner=None
+[842.965] MARKER flush  winner=None
+[842.972] MARKER flush  winner=None
+[842.980] MARKER flush  winner=None
+[842.988] MARKER flush  winner=None
+[842.996] MARKER flush  winner=None
+[843.004] MARKER flush  winner=None
+[843.012] MARKER flush  winner=None
+[843.020] MARKER flush  winner=None
+[843.028] MARKER flush  winner=None
+[843.034] MARKER flush  winner=None
+[843.042] MARKER flush  winner=None
+[843.050] MARKER flush  winner=None
+[843.058] MARKER flush  winner=None
+[843.066] MARKER flush  winner=None
+[843.074] MARKER flush  winner=None
+[843.082] MARKER flush  winner=None
+[843.090] MARKER flush  winner=None
+[843.098] MARKER flush  winner=None
+[843.106] MARKER flush  winner=None
+[843.120] MARKER flush  winner=None
+[843.128] MARKER flush  winner=None
+[843.144] MARKER flush  winner=None
+[843.160] MARKER flush  winner=None
+[843.168] MARKER flush  winner=None
+[843.176] MARKER flush  winner=None
+[843.182] MARKER flush  winner=None
+[843.190] MARKER flush  winner=None
+[843.198] MARKER flush  winner=None
+[843.206] MARKER flush  winner=None
+[843.214] MARKER flush  winner=None
+[843.221] MARKER flush  winner=None
+[843.230] MARKER flush  winner=None
+[843.238] MARKER flush  winner=None
+[843.246] MARKER flush  winner=None
+[843.251] MARKER flush  winner=None
+[843.259] MARKER flush  winner=None
+[843.267] MARKER flush  winner=None
+[843.275] MARKER flush  winner=None
+[843.283] MARKER flush  winner=None
+[843.291] MARKER flush  winner=None
+[843.299] MARKER flush  winner=None
+[843.308] MARKER flush  winner=None
+[843.316] MARKER flush  winner=None
+[843.322] MARKER flush  winner=None
+[843.330] MARKER flush  winner=None
+[843.338] MARKER flush  winner=None
+[843.346] MARKER flush  winner=None
+[843.354] MARKER flush  winner=None
+[843.362] MARKER flush  winner=None
+[843.370] MARKER flush  winner=None
+[843.378] MARKER flush  winner=None
+[843.386] MARKER flush  winner=None
+[843.394] MARKER flush  winner=None
+[843.400] MARKER flush  winner=None
+[843.408] MARKER flush  winner=None
+[843.416] MARKER flush  winner=None
+[843.424] MARKER flush  winner=None
+[843.432] MARKER flush  winner=None
+[843.440] MARKER flush  winner=None
+[843.448] MARKER flush  winner=None
+[843.456] MARKER flush  winner=None
+[843.464] MARKER flush  winner=None
+[843.470] MARKER flush  winner=None
+[843.478] MARKER flush  winner=None
+[843.486] MARKER flush  winner=None
+[843.494] MARKER flush  winner=None
+[843.502] MARKER flush  winner=None
+[843.510] MARKER flush  winner=None
+[843.518] MARKER flush  winner=None
